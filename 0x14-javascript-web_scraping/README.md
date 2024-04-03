@@ -6,7 +6,6 @@
 
 Resources
 ---------
-
 **Read or watch**:
 
 -   [Working with JSON data](https://alx-intranet.hbtn.io/rltoken/ONv-sSv-FA87Mc5rMZmO6A "Working with JSON data")
